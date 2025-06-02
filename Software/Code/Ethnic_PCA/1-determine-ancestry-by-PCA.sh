@@ -4,7 +4,7 @@
 # Determining ancestry from SNP data 
 # Author: Laura Budurlean
 
-# Input: VCF files with SNV's called (using hg38) from your own samples
+# Input: VCF files with SNV's called (using hg38) from your own samples #HERE hg38 was replaced with hg19 due to the PRS calulation
 # Output: The final output will be a plot with your samples overlapped with super-populations from 1000 genomes data (https://www.internationalgenome.org/home) 
 
 # You will need plink2, bcftools, vcftools
