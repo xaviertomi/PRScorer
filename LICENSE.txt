@@ -1,0 +1,7 @@
+Copyright © TOMISINEC VANDOREN Xavier 2025
+
+Le présent logiciel, y compris l’ensemble de son code source, ses composants, et toute portion ou fragment de code, est mis à disposition exclusivement à des fins de recherche académique, d’enseignement ou d’expérimentation non commerciale.
+
+Toute utilisation, reproduction, modification, distribution ou intégration, en tout ou en partie, dans un cadre commercial — notamment mais non exclusivement dans des produits, services, plateformes, projets à but lucratif ou usages industriels — est strictement interdite sans l’accord écrit préalable de l’auteur.
+
+Ce dépôt ne constitue pas une publication dans le domaine public et ne transfère aucun droit d’exploitation commerciale.
