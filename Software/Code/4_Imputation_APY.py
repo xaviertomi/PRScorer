@@ -13,7 +13,7 @@ data = {
     'refpanel': '1000g-phase-3-v5',
     'build': 'hg19',
     'population': 'super_pop', 
-    'password': 'AS4P3RS3C4R3DP5SSW0RD' # Password for the job, can be anything and must be the exact same in 5_Imputation_Download.sh
+    'password': 'MYSECUREPWD' # Password for the job, can be anything and must be the exact same in 5_Imputation_Download.sh
 }
 
 headers = {'X-Auth-Token' : token}
