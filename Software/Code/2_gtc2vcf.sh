@@ -13,7 +13,7 @@ token="MY_TOKEN" # Replace with your actual token (https://imputationserver.helm
 echo "Step 2: Starting GTC to VCF conversion..." >> ${PIPELINE_DIR}/Software/Code/Progress.txt
 
 #ref hg19
-ref="/storage/data/software/highlander/reference/hg19/ucsc.hg19.fasta"
+ref="MY_Hg19_path"
 VCFLocation="${PIPELINE_DIR}/Data/"$name"/VCF"
 mkdir -p $VCFLocation
 
