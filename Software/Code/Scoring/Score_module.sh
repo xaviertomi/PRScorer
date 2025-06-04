@@ -3,7 +3,7 @@ name=$1
 PIPELINE_DIR="My_PIPELINE_DIR" # Replace with your actual pipeline directory path
 vcfLocation="${PIPELINE_DIR}/Data/${name}/VCF/post_imputation/${name}_chr_all.vcf"
 PRSModelPath="PaTh_to_my_CanRisk_PRSmodels" # Replace with the actual path to your PRS models
-EthnicModel=("BCAC_313_PRS.prs" "BCAC_309_PRS-UKB_southAsian.prs" "BCAC_309_PRS-UKB_eastAsian.prs" "BCAC_309_PRS-UKB_african.prs")
+EthnicModel=("BCAC_313_PRS.prs" "BCAC_307_PRS-UKB_southAsian.prs" "BCAC_307_PRS-UKB_eastAsian.prs" "BCAC_307_PRS-UKB_african.prs")
 
 ScorePath="${PIPELINE_DIR}/Data/${name}/PRS"
 mkdir -p $ScorePath
